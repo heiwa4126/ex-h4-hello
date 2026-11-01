@@ -11,5 +11,5 @@ dependencies = ["h4-hello>=0.1.15"]
 ex-h4-hello = "ex_h4_hello.core:main"
 
 [build-system]
-requires = ["uv_build>=0.12.24,<0.13.0"]
+requires = ["uv_build>=0.12.24,<0.14.0"]
 build-backend = "uv_build"
